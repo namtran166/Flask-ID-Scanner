@@ -32,6 +32,5 @@ python web.py
 
 ***
 # Demo result
-`NOTICE:` It still sucks **A LOT**, so please don't expect anything !!
 <img src="demo.png"/>
 
